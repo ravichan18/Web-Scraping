@@ -1,3 +1,7 @@
 # Web-Scraping
-In this repository, web scraping ipython notebook files are added. It was really interesting to perform web scraping and understanding how to append values depending on the websites taken into consideration. Feel free to take a look at all the notebooks where web scraping was performed.
-<img src = "https://github.com/ravichan18/images/blob/main/web-scraping.jpeg" width = "1000"/>
+
+Check out the jupiter notebook here: https://jovian.ai/ivarchan/final-web-scraping-project
+
+As part of this project, we will parse through the EODData website to get the details for Toronto Stock Exchange information.
+
+We will retrieve information from the page ’Toronto Stock Exchange’ using web scraping: a process of extracting information from a website programmatically. For this specific project we will be scraping stocks starting with Alphabets A to H.
